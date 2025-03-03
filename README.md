@@ -1,2 +1,2 @@
 # Live-Demo
-https://sajidcode-gh.github.io/SC-Apps/
+https://sajidcodesdotcom.github.io/SC-Apps/
